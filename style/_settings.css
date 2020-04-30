@@ -1,3 +1,39 @@
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Bold.ttf");
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-SemiBold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Medium.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Regular.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Light.ttf");
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SirinStencil";
+    src: url("../fonts/SirinStencil-Regular.ttf");
+    font-weight: 300;
+}
+
 :root{
     --red: rgb(152, 30, 45);
     --warm-grey: rgb(254, 250, 233);
@@ -7,13 +43,8 @@
     --white: #FEFEFE;
 }
 
-body{
-    
-    font-family: 'teko', sans-serif;
-}
-
-.wrapper{
-    max-width: 960px;
-    width: 95vw;
-    margin: 0 auto;
+body{   
+    font-family: "Teko", sans-serif;
+    letter-spacing: 1px;
+    font-size: 1.25rem;
 }

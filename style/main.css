@@ -1,29 +1,25 @@
+/* Reset */
+
 @import 'reset.css';
+
+/* Layout */
+
+@import 'layout.css';
+
+/* Individual Elements */
 
 @import '_settings.css';
 
-@import 'typography.css';
+@import '_typography.css';
 
 @import '_buttonsLinks.css';
 
-@import 'buttons.css';
+@import '_card.css';
 
-@import 'card.css';
+@import '_footer.css';
 
-@import 'footer.css';
+@import '_header.css';
 
-@import 'header.css';
-
-@import 'imagery.css';
-
-@import 'main-forms.css';
-
-@import 'main.css';
+@import 'find-us.css';
 
 @import 'nav.css';
-
-@import 'sidebar.css';
-
-@import 'theme.css';
-
-@import 'layout.css';
