@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(255, 247, 240);
+    display: grid;
+    grid-template-rows: 100px 400px 800px 500px 200px;
+    grid-template-areas:
+    'nav'
+    'hero-img'
+    'about'
+    'find-us'
+    'footer'
+}
+
+.nav-main {
+grid-area: nav;
+}
+
+.hero-img {
+grid-area: hero-img;
+object-fit: cover;
+width: 100%;
+height: 100%;
+}
+
+#main {
+grid-area: about;
+}
+
+.find-us {
+grid-area: find-us;
+}
+
+.footer {
+    grid-area: footer;
+}
