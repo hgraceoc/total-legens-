@@ -1,7 +1,7 @@
 body {
     background-color: rgb(255, 247, 240);
     display: grid;
-    grid-template-rows: 100px 400px 800px 500px 200px;
+    grid-template-rows: 100px 400px 800px 300px 200px;
     grid-template-areas:
     'nav'
     'hero-img'
