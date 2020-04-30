@@ -7,24 +7,23 @@
     <title>My Wonderful Coffee Site</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <meta name="description" content="unique content for your site - can be as long as you like">
 
-    <link rel="apple-touch-icon" href="icon.png">
-
+    <link rel="apple-touch-icon" href="icon.png"> <!-- Apple equivalent of favicon-->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-
-
+    <!-- Or just put icon file named favicon.ico in root; no need to link in HTML -->
     <link rel="stylesheet" href="style/main.css">
+
+    <!-- script src="scripts.js" defer></script -->
+    <!-- Can use 'defer' to delay loading script till after page has loaded -->
 
 </head>
 
 <body>
 
     <div class="wrapper">
-
         <picture class="hero">
             <img class="hero-img" src="images/coffeeBusySmall.png" alt="photo of interior of shop">
         </picture>
@@ -56,8 +55,8 @@
 
 
         <section class="find-us">
-            <div class="address">
-                <h3>Find Us</h3>
+            <h3>Find Us</h3>
+            <div class="find-us__address">
                 <p>No. 10 Funk Street<br>
                     Coffee Town BS1 345
                 </p>
