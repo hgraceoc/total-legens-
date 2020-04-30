@@ -11,13 +11,12 @@ h2{
     font-size: 3rem;
     font-weight: 700;
     color: var(--dark-grey);
-    text-align: left;
 }
 
 h3{
     font-size: 2.4rem;
     font-weight: 600;
-    color: var(--dark-grey);
+    color: var(--red);
 }
 
 h4{
@@ -45,6 +44,7 @@ p{
     color: var(--dark-grey);
     word-spacing: 0.5rem;
     line-height: 1.5em;
+  
 
 }
 time{
