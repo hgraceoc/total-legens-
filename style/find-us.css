@@ -1,3 +1,30 @@
 .find-us {
+    color: var(--dark-grey);
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 2rem;
 }
+
+.find-us__address {
+    padding: 0rem 1rem 0rem 0rem;
+    height: 300px;
+    display: block;
+    align-items: center;
+
+}
+
+.find-us__map {
+    filter: grayscale(60%);
+}
+
+.find-us__contact {
+    padding: 0rem 0rem 0rem 1rem;
+
+}
+
+.find-us h2 {
+    color: var(--red);
+}
+
+
