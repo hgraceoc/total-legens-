@@ -1,4 +1,5 @@
 .find-us {
+    color: var(--dark-grey);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,16 +9,23 @@
 .find-us__address {
     padding: 0rem 1rem 0rem 0rem;
     height: 300px;
-    display: flex;
+    display: block;
+    align-items: center;
 
 }
 
 .find-us__map {
-    filter: grayscale(60%);
+    background-color: var(--red);
+    ;
 }
 
 .find-us__contact {
+    padding: 0rem 0rem 0rem 1rem;
 
+}
+
+.find-us h2 {
+    color: var(--red);
 }
 
 
