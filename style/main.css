@@ -1,20 +1,16 @@
 @import 'reset.css';
 
-@import 'settings.css';
+@import '_settings.css';
 
 @import 'typography.css';
 
-@import 'article.css';
-
-@import 'buttons-links.css';
+@import '_buttonsLinks.css';
 
 @import 'buttons.css';
 
 @import 'card.css';
 
 @import 'footer.css';
-
-@import 'forms.css';
 
 @import 'header.css';
 
