@@ -15,8 +15,9 @@
 }
 
 .find-us__map {
-    background-color: var(--red);
-    ;
+    /* background-color: var(--red); */
+    mix-blend-mode: multiply;
+    filter: grayscale(60%);
 }
 
 .find-us__contact {
