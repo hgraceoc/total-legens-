@@ -7,8 +7,8 @@ a {
     text-transform: uppercase;
 }
 
-.nav-main__link{
-    color: var(--dark-grey);
+.nav-main__link {
+    color: var(--white);
     text-transform: uppercase;
     text-decoration: none;
 } 
