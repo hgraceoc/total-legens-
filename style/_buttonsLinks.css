@@ -60,7 +60,7 @@ a {
     padding: 2.5%;
     margin: 0.5rem;
     border-radius: 50%;
-    background-color: var(red);
+    background-color: var(--red);
 }
 
 .icon{ 
