@@ -1,23 +1,19 @@
 a {
-    color: var(--turquoise);
+    color: var(--dark-grey);
     padding:1rem;
     
     
-}
-
-.nav-main__item{
-    display: inline-block;
-    padding:1rem;
 }
 
 .nav-main__link{
     color: var(--dark-grey);
+    text-transform: uppercase;
     text-decoration: none;
 } 
 
 
 .button{
-    background-color: var(--coral);
+    background-color: var(--red);
     color: var(--white);
     text-decoration: none;
     border: none;
