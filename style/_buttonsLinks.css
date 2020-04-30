@@ -1,16 +1,14 @@
 a {
-    color: var(--dark-grey);
     padding:1rem;
-    margin-left: 2rem;
+    margin: 0.5rem;
     letter-spacing: 2px;
-    text-decoration: none;
     text-transform: uppercase;
 }
 
 .nav-main__link {
     color: var(--white);
-    text-transform: uppercase;
     text-decoration: none;
+    align-content: center;
 } 
 
 
@@ -21,35 +19,9 @@ a {
     border: none;
     font-size: 1rem;
     padding:1rem 2rem;
+    margin: 1rem;
 
 }
-
-.button--cat{
-    background-color: var(--turquoise);
-    align-self: center;
-    margin:0.5rem;
-    padding: 1rem 2rem;
-}
-
-.button--search{
-    padding:1em 2em;
-    margin:0.5em;
-    
-}
-
-.container__button--left{
-    display: flex;
-    justify-content: flex-start ;
-    align-content: center;
-}
-
-
-.container__button--center{
-    display: flex;
-    justify-content: center ;
-    align-content: center;
-}
-
 
 .iconbtn {
     display: inline-block;

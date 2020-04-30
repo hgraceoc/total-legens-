@@ -1,0 +1,53 @@
+/* Headings */
+
+h1{
+    font-family: 'Teko';
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--dark-grey);
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--dark-grey);
+    text-align: left;
+}
+
+h3{
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: var(--dark-grey);
+}
+
+h4{
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--dark-grey);
+}
+
+h5{
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--dark-grey);
+}
+
+h6{
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--dark-grey);
+}
+
+/* content */
+
+p{
+    font-weight: 500;
+    color: var(--dark-grey);
+    word-spacing: 0.5rem;
+    line-height: 1.5em;
+
+}
+time{
+    font-weight: 300;
+    color: var(--dark-grey);
+}
