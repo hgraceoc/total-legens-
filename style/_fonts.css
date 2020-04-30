@@ -28,3 +28,6 @@
     src: url("../fonts/Teko-Light.ttf");
     font-weight: 300;
 }
+body {
+    font-family: Teko, sans-serif;
+}
