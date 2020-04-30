@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Teko";
+    src: url("../fonts/Teko-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Teko"; /* Same font-family name */
+    src: url("../fonts/Teko-Bold.ttf");
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Teko"; /* Same font-family name */
+    src: url("../fonts/Teko-SemiBold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Teko"; /* Same font-family name */
+    src: url("../fonts/Teko-Medium.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Teko"; /* Same font-family name */
+    src: url("../fonts/Teko-Regular.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Teko"; /* Same font-family name */
+    src: url("../fonts/Teko-Light.ttf");
+    font-weight: 300;
+}
+body {
+    font-family: Teko, sans-serif;
+}
