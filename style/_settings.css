@@ -1,0 +1,19 @@
+:root{
+    --red: rgb(152, 30, 45);
+    --warm-grey: rgb(254, 250, 233);
+    --turquoise:  rgb(54, 175, 191);
+    --dark-grey: rgb(63, 59, 59);
+    --orange:  rgb(208, 136, 48);
+    --white: #FEFEFE;
+}
+
+body{
+    
+    font-family: 'teko', sans-serif;
+}
+
+.wrapper{
+    max-width: 960px;
+    width: 95vw;
+    margin: 0 auto;
+}
