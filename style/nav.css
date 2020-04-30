@@ -1,6 +1,6 @@
 .nav-main {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     height: 3rem;
  }
