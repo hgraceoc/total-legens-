@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+@import 'reset.css';
+
+@import '_settings.css';
+
+@import 'typography.css';
+
+@import '_buttonsLinks.css';
+
+@import 'buttons.css';
+
+@import 'card.css';
+
+@import 'footer.css';
+
+@import 'header.css';
+
+@import 'imagery.css';
+
+@import 'main-forms.css';
+
+@import 'main.css';
+
+@import 'nav.css';
+
+@import 'sidebar.css';
+
+@import 'theme.css';
+
+@import 'layout.css';
+>>>>>>> Stashed changes
+=======
 @import "reset.css";
 
 @import "_fonts.css";
@@ -27,3 +61,4 @@
 @import "sidebar.css";
 
 @import "theme.css";
+>>>>>>> master
